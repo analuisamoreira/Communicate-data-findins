@@ -1,5 +1,5 @@
 # Communicate-data-findins
-Project 2 from Udacity Data Analyst Nanodegree - communicate data findings of the Bike Sharing System in S.Francisco 
+Project 3 from Udacity Data Analyst Nanodegree - communicate data findings of the Bike Sharing System in S.Francisco 
 
 ## Overview of the dataset:
 
